@@ -1,0 +1,29 @@
+.real{
+text-align:left;
+margin:0px auto;
+position:fixed;
+top: auto;
+}
+#empName{
+    text-align: left;
+    top:-30px;
+    left: 120px;
+}
+#Email{
+    text-align: left;
+    top:-30px;
+    left:120px;
+}
+#mobile{
+    text-align: left;
+    top:-30px;
+    left:120px;
+}
+#empId{
+    text-align: left;
+    top:-30px;
+    left:120;
+}
+b{
+    color: red;
+}

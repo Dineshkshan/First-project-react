@@ -1,0 +1,40 @@
+input{
+display:block;
+margin:10px auto;
+width: 210px;
+position:relative;
+top:10px;
+padding:5px;
+}
+label{
+display:block;
+margin:0px auto;
+width: 210px;
+position:relative;
+top:10px;
+padding:5px;
+text-align:left;
+color: red;
+}
+
+.container
+{
+text-align:center;
+margin:0px auto;
+position:relative;
+}
+h1
+{
+text-align:center;
+}
+.button
+{
+margin:10px;
+width:8%;
+padding:10px;
+position:relative;
+top:15px;
+}
+h1{
+  color:blue;
+}
