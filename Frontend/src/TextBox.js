@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export class TextBox extends React.Component {
+export default class TextBox extends React.Component {
   constructor(props) {
     super(props);
   }

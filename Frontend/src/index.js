@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import { render } from "react-dom";
 import "./style.css";
 import "./style1.css";
-import {TextBox}  from "./TextBox";
-import {Label} from "./Label";
+import TextBox  from "./TextBox";
+import Label from "./Label";
 import Button from "./Button";
 import axios from 'axios';
 
